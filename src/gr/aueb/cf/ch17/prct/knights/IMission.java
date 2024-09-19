@@ -1,0 +1,7 @@
+package gr.aueb.cf.ch17.prct.knights;
+
+@FunctionalInterface
+public interface IMission {
+
+    void embark();
+}
